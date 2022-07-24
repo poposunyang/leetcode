@@ -48,6 +48,7 @@ public class Solution {
 				,"hjibagacbhadfaefdjaeaebgi"));
 		System.out.println(canConstructHash("fihjjjjei"
 				,"hjibagacbhadfaefdjaeaebgi"));
+        
 	}
 
 }
